@@ -1,0 +1,14 @@
+/home/anas/Projects/redisApi/obj/Debug/netcoreapp2.1/redisApi.csprojAssemblyReference.cache
+/home/anas/Projects/redisApi/obj/Debug/netcoreapp2.1/redisApi.csproj.CoreCompileInputs.cache
+/home/anas/Projects/redisApi/obj/Debug/netcoreapp2.1/redisApi.RazorAssemblyInfo.cache
+/home/anas/Projects/redisApi/obj/Debug/netcoreapp2.1/redisApi.RazorAssemblyInfo.cs
+/home/anas/Projects/redisApi/obj/Debug/netcoreapp2.1/redisApi.AssemblyInfoInputs.cache
+/home/anas/Projects/redisApi/obj/Debug/netcoreapp2.1/redisApi.AssemblyInfo.cs
+/home/anas/Projects/redisApi/bin/Debug/netcoreapp2.1/redisApi.deps.json
+/home/anas/Projects/redisApi/bin/Debug/netcoreapp2.1/redisApi.runtimeconfig.json
+/home/anas/Projects/redisApi/bin/Debug/netcoreapp2.1/redisApi.runtimeconfig.dev.json
+/home/anas/Projects/redisApi/bin/Debug/netcoreapp2.1/redisApi.dll
+/home/anas/Projects/redisApi/bin/Debug/netcoreapp2.1/redisApi.pdb
+/home/anas/Projects/redisApi/obj/Debug/netcoreapp2.1/redisApi.RazorTargetAssemblyInfo.cache
+/home/anas/Projects/redisApi/obj/Debug/netcoreapp2.1/redisApi.dll
+/home/anas/Projects/redisApi/obj/Debug/netcoreapp2.1/redisApi.pdb
